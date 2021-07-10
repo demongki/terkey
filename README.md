@@ -8,7 +8,7 @@ Is a tool for add keys to your Termux app.
 * `$ pkg update && pkg upgrade`
 * `$ pkg install python`
 * `$ pkg install git`
-* `$ git clone https://github.com/karjok/terkey`
+* `$ git clone https://github.com/demongki/terkey`
 * `$ cd terkey`
 * `$ python terkey.py`
 
