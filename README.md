@@ -1,4 +1,4 @@
-![Terkey Termux Key](screenshot.jpg)
+![Terkey Termux Key](bloodsword.jpg)
 
 # Terkey
 Is a tool for add keys to your Termux app.
